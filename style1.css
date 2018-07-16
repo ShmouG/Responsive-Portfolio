@@ -49,12 +49,12 @@ body {
 #main-bio {
   /* float: left; */
 }
-#container {
-    padding: 7%;
+.container {
+    /* padding: 7%; */
     margin: 0 auto;
     border: 10px;
-    max-width: 1024px; 
-    background-color: #f2f2f2;   
+    /* max-width: 1024px;  */
+    background-color: #f2f2f2 !important;   
 }
 
 .right-links  {
